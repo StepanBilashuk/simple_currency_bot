@@ -1,0 +1,10 @@
+
+{
+  "telegramBotToken": "YOUR_TELEGRAM_TOKEN",
+  "dbHost": "YOUR_DATABASE_HOST",
+  "dbHostName": "YOUR_DATABASE_HOST_NAME",
+  "dbPort": "YOUR_DATABASE_PORT",
+  "dbUser": "YOUR_DATABASE_USERNAME",
+  "dbPassword": "YOUR_DATABASE_PASSWORD",
+  "coinAPIKey": ""
+}
